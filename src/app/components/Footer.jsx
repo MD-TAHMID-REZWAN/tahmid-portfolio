@@ -9,7 +9,7 @@ export default function Footer() {
             <h2 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
               MD TAHMID REZWAN
             </h2>
-            <p className="mt-2 text-gray-400">Full Stack Software Engineer</p>
+            <p className="mt-2 text-gray-400">Network & Security Specialist</p>
           </div>
 
           <div className="flex space-x-6">
