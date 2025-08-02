@@ -29,14 +29,14 @@ export default function Footer() {
             >
               <FaLinkedin size={24} />
             </a>
-            <a
+            {/* <a
               href="https://codeforces.com/profile/MostaqueNaimAIUB"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
             >
               <FaCode size={24} />
-            </a>
+            </a> */}
           </div>
         </div>
 
