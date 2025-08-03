@@ -14,7 +14,7 @@ export default function HeroSection() {
       </div>
 
       {/* Role Title */}
-      <h3 className="text-2xl font-semibold text-center mt-4">
+      <h3 className="text-2xl font-semibold text-center mt-4 text-black">
         A Dedicated Network Specialist
       </h3>
 
@@ -37,7 +37,7 @@ export default function HeroSection() {
       </div>
 
       {/* Social Links */}
-      <h3 className="text-xl font-semibold mt-8">Connect with me:</h3>
+      <h3 className="text-xl font-semibold mt-8 text-black">Connect with me:</h3>
       <div className="flex items-center gap-4 mt-2">
         <a
           href="https://www.linkedin.com/in/md-tahmid-rezwan-b93516208/"
@@ -59,7 +59,7 @@ export default function HeroSection() {
       </div> */}
 
       {/* Skills Icons */}
-      <h3 className="text-xl font-semibold mt-10 mb-4">Languages and Tools:</h3>
+      <h3 className="text-xl font-semibold mt-10 mb-4 text black">Languages and Tools:</h3>
       <div className="flex flex-wrap gap-4">
         {[
           { name: 'C', url: 'https://www.cprogramming.com/', icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' },
