@@ -64,7 +64,7 @@ export default function AboutSection() {
               viewport={{ once: true }}
               className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow"
             >
-              <h3 className="text-xl font-semibold text-gray-1500 mb-4">Education</h3>
+              <h3 className="text-xl font-semibold text-black mb-4">Education</h3>
               <div className="space-y-4">
                 <div>
                   <h4 className="font-medium text-gray-700">BSc in CSE</h4>
