@@ -44,14 +44,14 @@ export default function AboutSection() {
               viewport={{ once: true }}
               className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow"
             >
-              <h3 className="text-xl font-semibold text-black-100 mb-4">Experience</h3>
+              <h3 className="text-xl font-semibold text-black mb-4">Experience</h3>
               <div className="space-y-4">
                 <div>
-                  <h4 className="font-medium text-black-100">Network Support Engineer Intern</h4>
+                  <h4 className="font-medium text-black">Network Support Engineer Intern</h4>
                   <p className="text-gray-600">Sammtech Ltd | Sept 2023 - Jan 2024</p>
                 </div>
                 <div>
-                  <h4 className="font-medium text-black-100">General Manager (Management)</h4>
+                  <h4 className="font-medium text-black">General Manager (Management)</h4>
                   <p className="text-gray-600">HoneyComb Inc. | Feb 2024 - Aug 2025</p>
                 </div>
               </div>
